@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Set some inputs and update the 7 segment display.
+Now just one single NOT gate to see what that looks like!
 
 ## How to test
 
-Set some inputs and update the 7 segment display.
+Input does NOT equal output!
 
 ## External hardware
 
-Buttons, dip switch array, 7-segment display.
+Logic level input and multimeter output.
