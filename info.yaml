@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     445109034894292993       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     397142450561071105       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Test with Single NOT gate"      # Project title
   author:       "Andy Geppert"      # Your name
   discord:      "Core64"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
