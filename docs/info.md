@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Now just one single NOT gate to see what that looks like!
+Now just one single NOT gate to see what that looks like! 
 
 ## How to test
 
-Input does NOT equal output!
+Input does NOT equal output for line 1. Rest of the lines are wired straight through.
 
 ## External hardware
 
